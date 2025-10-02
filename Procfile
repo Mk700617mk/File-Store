@@ -1,2 +1,2 @@
 worker: python -m FileStoreBox
-web: python bot.py
+web: Python -m FileStoreBox
